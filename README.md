@@ -9,6 +9,6 @@ Da click, para poder observarlo [Vista Previa del Challenge](https://challenge-o
 * CSS
 * Bootstrap 5
 * JAVASCRIPT
-### Se realizó el footer
+### Trabajo extra: Se realizó el footer
 ### Captura del proyecto
 ![Captura del proyecto](VistaPrevia.png)
