@@ -11,4 +11,4 @@ Da click, para poder observarlo [Vista Previa del Challenge](https://challenge-o
 * JAVASCRIPT
 
 ### Captura del proyecto
-![Captura del proyecto](vistaPrevia.png)
+![Captura del proyecto](VistaPrevia.png)
