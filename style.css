@@ -1,0 +1,130 @@
+* {
+    padding: 10px;
+    font-family: 'Inter';
+    line-height: 160%; 
+}
+body {
+    /* background-color:#9090915d; */
+       background: linear-gradient(180deg, #fafafa,#c7edff91,#010c1a);/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */                                             
+        display: grid;
+    }
+
+main {
+    /* ordenar espacio */
+    display: flex;
+    margin-bottom: 80px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#title {
+    text-align: center;
+    color: #154358;
+    font-weight: 800;
+    margin-right: 100px;
+    /* font-family: ; */
+}
+
+.restricciones {
+    font-style: italic;
+    color: #343A40;
+    font-size: 15px;
+    opacity: 0.8;
+    margin-left: 70px;
+   }
+/* Icono */
+#warningIcon {
+    background-color: #91a3b4;
+    border-radius: 20px;
+    margin-right: 5px;
+    padding: 0;
+}
+
+#ingreseTexto {
+    width: 500px;
+    font-size: 20px;
+    font-weight: 450;
+    line-height: 50px;
+    height: 300px;
+    font-style: italic;
+    text-align: left;
+    color: #002333;
+    border: none;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-top: 20px;
+    text-transform: lowercase;
+    cursor: pointer;
+    background: none;
+    height: 100px;
+
+}
+
+/* Botones */
+.botones {
+    display: flex;
+    gap: 30px;
+    margin-left: 70px;
+}
+.botones #encript {
+    color: rgb(251, 251, 255);
+    background: #0A3871;
+    border-radius: 24px;
+    /* Auto layout */
+    width: 200px;
+    height: 55px;
+    text-align: center;
+    font-weight: 700;
+
+}
+.botones #desencript {
+    /* Light gray */
+    background: #D8DFE8;
+    /* contorno y border radio */
+    border: 3px solid #0A3871;
+    color: #0A3871;
+    font-weight: 700;
+
+    border-radius: 24px;
+    width: 200px;
+    height: 55px;
+    text-align: center;
+}
+#copiar {
+    /* Light gray */
+    background: #0A3871;
+    /* contorno y border radio */
+    border: 2px solid #051a34;
+    color: #e1e9f3;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 24px;
+    width: 150px;
+    height: 55px;
+    position: absolute;
+    margin-left: 140px;
+}
+
+
+#mensaje {
+    background: #020e2c;
+    background-image: url(/img/Muñeco.png);
+    background-repeat: no-repeat;
+    margin-left: 
+    50px;
+    color:white;
+    border: none;
+    border-radius: 20px;  
+    width: 380px;
+    height: 360px;
+    padding: 40px;
+    margin-bottom: 0;
+}
+#muneco {
+    position: absolute;
+    align-content: center;
+}
+.derechos{
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+}
+
